@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/nishinomiya-sadaijin",
  "yomi": "にしのみやのさだいじんぎょしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "平安中期（10世紀）",
+  "author": "源高明（914〜982）",
+  "desc": "西宮左大臣と呼ばれた源高明の家集。女との恋の贈答の歌がほとんどを占める。奥書に治承3年（1179）と建長5年（1253）の書写の年記がある。"
+ },
  "editions": [
   {
    "pid": "1879517",
@@ -910,6 +915,6 @@
   "poems": 77,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
